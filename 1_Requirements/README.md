@@ -2,7 +2,7 @@
 
 ## INTRODUCTION:
 
-Contract management is the process of actively managing contact details efficiently and effectively.The system helps to keep a track of all the contacts available.The project aims at developing contact management system using C language that enables an organization to maintain its library.
+Contact management is the process of actively managing contact details efficiently and effectively.The system helps to keep a track of all the contacts available.The project aims at developing contact management system using C language that enables an organization to maintain its library.
 
 The project titled Contact Management System is demonstrate the creation of a user interface of a system. The project “Contact Management System” is developed in C, which mainly focuses on basic operations in a contact like adding new contacts, listing out the details, updating the contact, searching for the contact and deleting the contact.
 
